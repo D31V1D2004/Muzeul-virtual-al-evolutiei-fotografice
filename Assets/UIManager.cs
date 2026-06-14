@@ -7,7 +7,7 @@ public class UIManager : MonoBehaviour
 
     public GameObject panouInfo;
     public TextMeshProUGUI textNume;
-    public TextMeshProUGUI textCreator; // Noua căsuță pentru creator
+    public TextMeshProUGUI textCreator; 
     public TextMeshProUGUI textDescriere;
 
     private void Awake()
@@ -21,7 +21,7 @@ public class UIManager : MonoBehaviour
     {
         panouInfo.SetActive(true);
         textNume.text = nume;
-        textCreator.text = "Creator: " + creator; // Pune textul în UI
+        textCreator.text = "Creator: " + creator; 
         textDescriere.text = descriere;
     }
 
