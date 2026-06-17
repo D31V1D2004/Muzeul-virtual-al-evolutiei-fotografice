@@ -931,8 +931,8 @@ Transform:
   m_GameObject: {fileID: 73946681}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.0038230254, z: -0, w: -0.9999927}
-  m_LocalPosition: {x: -30.776947, y: 43.74124, z: -141.26471}
-  m_LocalScale: {x: 5.6061234, y: 1.8169065, z: 0.02}
+  m_LocalPosition: {x: -30.776978, y: 43.7339, z: -141.26471}
+  m_LocalScale: {x: 5.606124, y: 1.8021513, z: 0.02}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 382576071}
@@ -5572,8 +5572,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.015563965, y: -0.009613037}
-  m_SizeDelta: {x: 5.4469, y: 1.698}
+  m_AnchoredPosition: {x: 0.01413, y: 0.1498}
+  m_SizeDelta: {x: 5.46299, y: 2.2773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &355995295
 MonoBehaviour:
@@ -5595,7 +5595,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Asahi Pentax h2 - 1959
+  m_text: "Asahiflex / Asahi Pentax (1952 / 1957)\nCamera: Asahiflex I (1952) a fost
+    primul aparat foto DSLR japonez de 35 mm, inspirat de modelul german Praktiflex.
+    Succesorul s\u0103u, Asahi Pentax (1957), a revolu\u021Bionat linia prin ad\u0103ugarea
+    unui vizor integrat cu pentaprism\u0103 la nivelul ochilor.  \nInventatori: Designerii
+    japonezi Nobuyuki Yoshida \u0219i Ryohei Suzuki de la compania Asahi Optical
+    (devenit\u0103 ulterior Pentax Corporation), care au fost convin\u0219i de superioritatea
+    sistemelor DSLR. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6236,7 +6242,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 382576070}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.52719116}
+  m_LocalPosition: {x: 0, y: 0, z: -0.52}
   m_LocalScale: {x: 0.1783764, y: 0.5503861, z: 50}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6244,8 +6250,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.015563965, y: -0.009613037}
-  m_SizeDelta: {x: 5.4469, y: 1.698}
+  m_AnchoredPosition: {x: 0.01409, y: 0.146}
+  m_SizeDelta: {x: 5.46314, y: 2.2632}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &382576072
 MonoBehaviour:
@@ -6267,7 +6273,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Polaroid Land Camera Model 95A - 1948
+  m_text: "Polaroid Model 95 Land Camera (1948)\nCamera: Primul aparat de fotografiat
+    cu dezvoltare instantanee din lume. Era un aparat pliant \u0219i robust care
+    permitea ob\u021Binerea unei fotografii finite \xEEn doar 60 de secunde, printr-un
+    proces chimic bazat pe transferul de difuzie direct \xEEn interiorul camerei.
+    \nInventator: Edwin Land, om de \u0219tiin\u021B\u0103 \u0219i inventator american,
+    cofondator al Polaroid Corporation, cunoscut pentru inventarea filtrelor polarizante
+    \u0219i a sistemelor practice de fotografie instantanee."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7283,8 +7295,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.015563965, y: -0.009613037}
-  m_SizeDelta: {x: 5.4469, y: 1.698}
+  m_AnchoredPosition: {x: 0.00408, y: 0.2339}
+  m_SizeDelta: {x: 5.57561, y: 3.6447}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &485660468
 MonoBehaviour:
@@ -7306,7 +7318,18 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Canon EOS 4000D - 2018
+  m_text: "Canon EOS 4000D (2018)\nCamera: Un aparat foto DSLR modern (Digital Single-Lens
+    Reflex) entry-level, conceput special pentru a fi o op\u021Biune foarte ieftin\u0103
+    \u0219i accesibil\u0103 pentru fotografii \xEEncep\u0103tori. Dispune de un senzor
+    APS-C de 18 megapixeli, procesor de imagine DIGIC 4+, filmare Full HD \u0219i
+    conectivitate Wi-Fi integrat\u0103 pentru transferul rapid al pozelor pe telefon.
+    Pentru a reduce costurile de produc\u021Bie, Canon a folosit o montur\u0103 de
+    obiectiv din plastic (\xEEn loc de metal) \u0219i a eliminat butonul fizic de
+    pornire separat, mut\xE2ndu-l direct pe roti\u021Ba de selec\u021Bie a modurilor.\nProduc\u0103tor:
+    Creat \u0219i lansat de Canon Inc., gigantul multina\u021Bional japonez din Tokyo
+    (evoluat din vechiul laborator Seiki K\u014Dgaku, cel care a creat \u0219i prototipul
+    Kwanon \xEEn anii '30). Compania a dominat pia\u021Ba global\u0103 de camere
+    DSLR timp de decenii prin seriile sale EOS."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7417,8 +7440,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.015686035, y: -0.009613037}
-  m_SizeDelta: {x: 5.4469, y: 1.698}
+  m_AnchoredPosition: {x: 0.01712, y: 0.287}
+  m_SizeDelta: {x: 5.43081, y: 2.776}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &485921108
 MonoBehaviour:
@@ -7440,7 +7463,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Color Photography, autochrome method - 1903
+  m_text: "Color Photography, Autochrome method (1903)\nTehnologia: Autochrome a
+    fost primul proces practic \u0219i comercial de fotografie color din istorie.
+    Nu folosea o camer\u0103 special\u0103, ci pl\u0103ci fotografice unice din sticl\u0103,
+    acoperite cu un strat microscopic de granule de amidon de cartof vopsite \xEEn
+    trei culori (ro\u0219u-portocaliu, verde \u0219i albastru-violet) care ac\u021Bionau
+    ca ni\u0219te filtre de culoare. Imaginile rezultate aveau un aspect unic, asem\u0103n\u0103tor
+    unei picturi impresioniste.\nInventatori: Fra\u021Bii Lumi\xE8re (Auguste \u0219i
+    Louis Lumi\xE8re), celebri ingineri \u0219i inventatori francezi, cunoscu\u021Bi
+    la nivel mondial \u0219i pentru inventarea cinematografului. Ei au brevetat procesul
+    Autochrome \xEEn 1903 \u0219i l-au lansat pe pia\u021B\u0103 \xEEn 1907."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -12685,8 +12717,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.015563965, y: -0.009613037}
-  m_SizeDelta: {x: 5.4469, y: 1.698}
+  m_AnchoredPosition: {x: 0.01413, y: 0.0878}
+  m_SizeDelta: {x: 5.46299, y: 2.0519}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &725341967
 MonoBehaviour:
@@ -12708,7 +12740,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: GoPro 11 Black - 2022
+  m_text: "GoPro HERO3 White Edition (2013)\nCamera: O camer\u0103 de ac\u021Biune
+    compact\u0103 (doar 74 de grame) \u0219i entry-level, cu obiectiv ultra-wide
+    de tip \u201Eochi de pe\u0219te\u201D. Filma la rezolu\u021Bie 1080p, f\u0103cea
+    poze de 5 MP, avea Wi-Fi integrat pentru control de pe telefon \u0219i venea
+    cu o carcas\u0103 rezistent\u0103 sub ap\u0103 p\xE2n\u0103 la 60 de metri. \nInventator:
+    Nick Woodman, cel care a fondat compania american\u0103 de tehnologie GoPro,
+    Inc. \xEEn anul 2002 (ini\u021Bial sub numele de Woodman Labs, Inc.). "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -13679,8 +13717,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.01550293, y: -0.009613037}
-  m_SizeDelta: {x: 5.4469, y: 1.698}
+  m_AnchoredPosition: {x: 0.01684, y: 0.215}
+  m_SizeDelta: {x: 5.43195, y: 2.5142}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &768474197
 MonoBehaviour:
@@ -13702,7 +13740,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Bilora Standard Box - 1935
+  m_text: "Kwanon Model X (1935)\nCamera: Inspirat de Leica II, a fost un prototip
+    timpuriu (posibil realizat din lemn sau \xEEn serii extrem de mici) care a pus
+    bazele primului aparat foto de 35 mm fabricat \xEEn Japonia. Avea un vizor integrat
+    \u0219i o plac\u0103 superioar\u0103 plat\u0103.  \nInventatori: Yoshida Gor\u014D
+    \u0219i Uchida Sabur\u014D, care au \xEEnfiin\u021Bat \xEEn 1933 laboratorul
+    optic ce avea s\u0103 devin\u0103 compania Canon. (Not\u0103: Textul furnizat
+    con\u021Bine o eroare biografic\u0103, amestec\xE2nd numele inventatorului cu
+    un personaj fictiv dintr-un roman, \xEEns\u0103 men\u021Bioneaz\u0103 corect
+    fondarea laboratorului \xEEn 1933)."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -14085,7 +14131,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 786120900}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.52719116}
+  m_LocalPosition: {x: 0, y: 0, z: -0.53}
   m_LocalScale: {x: 0.1783764, y: 0.5503861, z: 50}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14093,8 +14139,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.015686035, y: -0.009613037}
-  m_SizeDelta: {x: 5.4469, y: 1.698}
+  m_AnchoredPosition: {x: 0.02145, y: 0.2615}
+  m_SizeDelta: {x: 5.38229, y: 3.7109}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &786120902
 MonoBehaviour:
@@ -14116,7 +14162,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Kodak "Brownie" Flash B - 1958
+  m_text: "Kodak \"Brownie\" Flash B (1958)\nCamera: Este un aparat foto de tip \u201Ebox
+    camera\u201D (cutie), fabricat din bachelit\u0103 neagr\u0103 (un plastic timpuriu,
+    foarte rigid). Modelul a fost produs special de filiala Kodak din Fran\u021Ba
+    pentru pia\u021Ba european\u0103. Numele s\u0103u vine de la pinii metalici laterali
+    care permiteau conectarea direct\u0103 a unui bli\u021B extern cu becuri cu incandescen\u021B\u0103
+    (Flash), o noutate foarte popular\u0103 \xEEn acei ani. Folosea film tip 620
+    pentru a realiza negative p\u0103trate mari.\n\nProduc\u0103tor: Creat de divizia
+    francez\u0103 a companiei Eastman Kodak (Kodak Path\xE9). Acest aparat reprezint\u0103
+    perfect evolu\u021Bia celebrei linii \u201EBrownie\u201D din anii '50, trec\xE2nd
+    de la cutiile vechi din carton din anii 1900 la carcase din plastic turnat, r\u0103m\xE2n\xE2nd
+    \xEEns\u0103 la fel de simplu de folosit pentru publicul larg."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -18241,7 +18297,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1057147848}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.52719116}
+  m_LocalPosition: {x: 0, y: 0, z: -0.53}
   m_LocalScale: {x: 0.1783764, y: 0.5503861, z: 50}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -18249,8 +18305,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.01550293, y: -0.009613037}
-  m_SizeDelta: {x: 5.4469, y: 1.698}
+  m_AnchoredPosition: {x: 0.01553, y: 0.3088}
+  m_SizeDelta: {x: 5.41472, y: 3.944}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1057147850
 MonoBehaviour:
@@ -18272,7 +18328,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: FED 3 - 1961
+  m_text: "FED 3 (1961)\nCamera: Un aparat foto legendar cu telemetru (rangefinder)
+    de 35 mm, produs \xEEn mas\u0103 \xEEn Uniunea Sovietic\u0103. Modelul lansat
+    \xEEn 1961 a adus \xEEmbun\u0103t\u0103\u021Biri majore fa\u021B\u0103 de versiunile
+    anterioare: a m\u0103rit plaja de timpi de expunere scur\u021Bi (de la 1 secund\u0103
+    p\xE2n\u0103 la 1/500), a ad\u0103ugat un sistem intern de corec\u021Bie a dioptriilor
+    pentru vizor \u0219i a eliminat butonul rotativ vechi pentru tragerea filmului,
+    \xEEnlocuindu-l ulterior cu o p\xE2rghie rapid\u0103 (lever advance). Era o camer\u0103
+    robust\u0103, complet mecanic\u0103 \u0219i foarte popular\u0103 \xEEn Europa
+    de Est.\nProduc\u0103tor / Origine: Nu a fost creat de un singur inventator,
+    ci de Fabrica FED din Harkov, Ucraina (numit\u0103 dup\u0103 Felix Edmundovich
+    Dzerzhinsky). Fabrica a \xEEnceput ini\u021Bial prin a copia faimoasele aparate
+    germane Leica, \xEEns\u0103 modelul FED 3 a fost o evolu\u021Bie proprie a inginerilor
+    sovietici, devenind unul dintre cele mai longevive \u0219i v\xE2ndute modele
+    din istoria fabricii (peste 2 milioane de exemplare produse)."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -18880,8 +18949,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.015686035, y: -0.009613037}
-  m_SizeDelta: {x: 5.4469, y: 1.698}
+  m_AnchoredPosition: {x: 0.01058, y: 0.1553}
+  m_SizeDelta: {x: 5.50418, y: 2.2974}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1082510545
 MonoBehaviour:
@@ -18903,7 +18972,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Leica 1 (A) - 1925
+  m_text: "Leica 1(A) (1925)\nCamera: Primul aparat foto de 35 mm disponibil comercial,
+    echipat cu un obturator pe plan focal \u0219i un obiectiv fix de \xEEnalt\u0103
+    calitate. A avut un succes imediat \u0219i a fost responsabil pentru popularizarea
+    filmului cinematografic adaptat pentru fotografie.  \nInventator: Oskar Barnack,
+    un inginer \u0219i fotograf german care suferea de astm. El a creat prototipul
+    (Ur-Leica) \xEEn 1913 la fabrica Leitz, dorind s\u0103 reduc\u0103 dimensiunea
+    \u0219i greutatea aparatelor pentru a le putea transporta mai u\u0219or \xEEn
+    c\u0103l\u0103torii."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -20026,8 +20102,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.015686035, y: -0.009613037}
-  m_SizeDelta: {x: 5.4469, y: 1.698}
+  m_AnchoredPosition: {x: -0.08, y: 0.56}
+  m_SizeDelta: {x: 6.10583, y: 3.8944}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1147635137
 MonoBehaviour:
@@ -20049,17 +20125,22 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Camera Obscura - 1826
-
-    These devices are the "archeology" of photography.
-
-    It
-    was the magical, fugitive images that appeared on the ground glass of the camera
-    obscura that inspired the search for a way to fix these beautiful, perfect images
-    of the world.
-
-    The first photographs were made with artists'' camera obscuras
-    adapted to take light sensitive material.'
+  m_text: "Camera Obscura (Sec. XV): Func\u021Bioneaz\u0103 ca o copie tehnic\u0103
+    a ochiului uman (o cutie paralelipipedic\u0103 neagr\u0103 la interior cu un
+    orificiu mic). Ulterior i s-a ad\u0103ugat o lentil\u0103 convergent\u0103 pentru
+    a proiecta o imagine clar\u0103, real\u0103 \u0219i r\u0103sturnat\u0103.  Inventatori/Contribuitori:
+    Principiile erau cunoscute din antichitate. \xCEn secolul XV, Leonardo da Vinci
+    (pictor, inginer \u0219i inventator italian) a definit faptul c\u0103 imaginea
+    se formeaz\u0103 datorit\u0103 propag\u0103rii luminii \xEEn linie dreapt\u0103.
+    \xCEn jurul anului 1500, Gerolamo Cardano a perfec\u021Bionat-o ad\u0103ug\xE2ndu-i
+    o lentil\u0103 convergent\u0103. \nCamera din 1826: Prima camer\u0103 foto permanent\u0103
+    din istorie, realizat\u0103 din lemn \u0219i format\u0103 din dou\u0103 piese.
+    Folosea procesul numit heliografie (pe o plac\u0103 de cositor acoperit\u0103
+    cu bitum) \u0219i necesita un timp de expunere de aproximativ 8 ore.  Inventator:
+    Joseph Nic\xE9phore Ni\xE9pce, un inventator francez care a realizat atunci prima
+    imagine din natur\u0103 fixat\u0103 permanent (\u201EView from the Window at
+    Le Gras\u201D). Corpul camerei a fost construit la Paris de Charles \u0219i Vincent
+    Chevalier. \n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -23286,8 +23367,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.015563965, y: -0.009613037}
-  m_SizeDelta: {x: 5.4469, y: 1.698}
+  m_AnchoredPosition: {x: 0.01833, y: 0.259}
+  m_SizeDelta: {x: 5.41586, y: 2.6741}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1328494015
 MonoBehaviour:
@@ -23309,7 +23390,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Polaroid - 1935
+  m_text: "Certo Sonny / Dolly Vest Pocket (1931)\nCamera: Este un aparat foto pliabil
+    de tip \u201EVest Pocket\u201D (de buzunar), extrem de compact \u0219i popular
+    \xEEn perioada interbelic\u0103. Folosea film tip 127 pentru a realiza cadre
+    mici. Dispune de un vizor optic pliabil pe lateral \u0219i un corp metalic \xEEmbr\u0103cat
+    \xEEn imita\u021Bie de piele.\nProduc\u0103tor: Creat de fabrica german\u0103
+    Certo Camera Werk (Dresda, Germania). Aceast\u0103 serie \u201EDolly / Sonny\u201D
+    a fost un succes comercial uria\u0219 \xEEn anii '30 deoarece oferea performan\u021Bele
+    unui aparat serios, dar \xEEntr-o dimensiune at\xE2t de redus\u0103 \xEEnc\xE2t
+    \xEEnc\u0103pea perfect \xEEn buzunarul de la vest\u0103 al domnilor din acea
+    epoc\u0103."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -23372,7 +23462,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: -0.014447212, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
